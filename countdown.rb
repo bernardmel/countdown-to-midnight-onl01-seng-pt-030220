@@ -10,5 +10,6 @@ while x -= 10
 
 
 "Happy New Year!"
+end
 def countdown
 end
